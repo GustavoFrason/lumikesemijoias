@@ -1,0 +1,132 @@
+[
+        {
+            "id": 1,
+            "images": [
+                "/images/destaqueSemana/022794006000_02.jpg",
+                "/images/destaqueSemana/022794006000.jpg"
+            ],
+            "name": "Brinco 2 em 1 Banho Dourado com Pedra Branca e Pêndulo Gota 4x7mm",
+            "discount": "27% OFF",
+            "priceOld": "R$ 199,90",
+            "priceNew": "R$ 144,90",
+            "installments": "6x de R$ 24,15",
+            "rating": 4
+        },
+        {
+            "id": 2,
+            "images": [
+                "/images/destaqueSemana/022981506000_02.jpg",
+                "/images/destaqueSemana/022981506000.jpg"
+            ],
+            "name": "Brinco Meia Argola Lisa Dourada Clássica 24x6mm",
+            "discount": "60% OFF",
+            "priceOld": "R$ 199,90",
+            "priceNew": "R$ 79,90",
+            "installments": "6x de R$ 13,31",
+            "rating": 5
+        },
+        {
+            "id": 3,
+            "images": [
+                 "/images/destaqueSemana/022794006000_02.jpg",
+                "/images/destaqueSemana/022794006000.jpg"
+            ],
+            "name": "Brinco Botão Zircônia Redondo Dourado 8mm",
+            "discount": "25% OFF",
+            "priceOld": "R$ 79,90",
+            "priceNew": "R$ 59,90",
+            "installments": "6x de R$ 9,98",
+            "rating": 5
+        },
+        {
+            "id": 4,
+            "images": [
+                 "/images/destaqueSemana/022794006000_02.jpg",
+                "/images/destaqueSemana/022794006000.jpg"
+            ],
+            "name": "Brinco Médio Ametista Retangular com Zircônia Dourado 19x14mm",
+            "discount": "60% OFF",
+            "priceOld": "R$ 199,90",
+            "priceNew": "R$ 159,00",
+            "installments": "6x de R$ 26,50",
+            "rating": 5
+        },
+        {
+            "id": 5,
+            "images": [
+                "/images/destaqueSemana/022794006000_02.jpg",
+                "/images/destaqueSemana/022794006000.jpg"
+            ],
+            "name": "Brinco Argola Cravejado com Zircônias Dourado 20mm",
+            "discount": "50% OFF",
+            "priceOld": "R$ 179,90",
+            "priceNew": "R$ 89,90",
+            "installments": "6x de R$ 14,98",
+            "rating": 4
+        },
+        {
+            "id": 6,
+            "images": [
+                 "/images/destaqueSemana/022794006000_02.jpg",
+                "/images/destaqueSemana/022794006000.jpg"
+            ],
+            "name": "Brinco Pêndulo Longo com Cristais Coloridos Dourado 50mm",
+            "discount": "40% OFF",
+            "priceOld": "R$ 249,90",
+            "priceNew": "R$ 149,90",
+            "installments": "6x de R$ 24,98",
+            "rating": 5
+        },
+        {
+            "id": 7,
+            "images": [
+                 "/images/destaqueSemana/022794006000_02.jpg",
+                "/images/destaqueSemana/022794006000.jpg"
+            ],
+            "name": "Brinco Argola com Detalhe Texturizado Dourado 18mm",
+            "discount": "30% OFF",
+            "priceOld": "R$ 129,90",
+            "priceNew": "R$ 89,90",
+            "installments": "6x de R$ 14,98",
+            "rating": 4
+        },
+        {
+            "id": 8,
+            "images": [
+                 "/images/destaqueSemana/022794006000_02.jpg",
+                "/images/destaqueSemana/022794006000.jpg"
+            ],
+            "name": "Brinco Gota Cravejado com Zircônias Brancas Dourado 10mm",
+            "discount": "20% OFF",
+            "priceOld": "R$ 99,90",
+            "priceNew": "R$ 79,90",
+            "installments": "6x de R$ 13,31",
+            "rating": 4
+        },
+        {
+            "id": 9,
+            "images": [
+                 "/images/destaqueSemana/022794006000_02.jpg",
+                "/images/destaqueSemana/022794006000.jpg"
+            ],
+            "name": "Brinco Longo com Cristais em Formato Oval Dourado 40mm",
+            "discount": "35% OFF",
+            "priceOld": "R$ 229,90",
+            "priceNew": "R$ 149,90",
+            "installments": "6x de R$ 24,98",
+            "rating": 5
+        },
+        {
+            "id": 10,
+            "images": [
+                "/images/destaqueSemana/022794006000_02.jpg",
+                "/images/destaqueSemana/022794006000.jpg"
+            ],
+            "name": "Brinco Botão com Detalhe Floral Dourado 15mm",
+            "discount": "45% OFF",
+            "priceOld": "R$ 119,90",
+            "priceNew": "R$ 64,90",
+            "installments": "6x de R$ 10,82",
+            "rating": 4
+        }
+    ]

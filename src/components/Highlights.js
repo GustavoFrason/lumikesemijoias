@@ -3,12 +3,12 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/pagination';
-
+import products from '../utils/product.json'
 
 const Highlights = () => {
   const whatsappNumber = '5541991493618';
 
-  const products = [
+ /*  const products = [
     {
       id: 1,
       images: [
@@ -61,7 +61,7 @@ const Highlights = () => {
       installments: '6x de R$ 16,65',
       rating: 5,
     },
-  ];
+  ]; */
 
   return (
     <section className="py-12 bg-gray-50">
@@ -78,7 +78,7 @@ const Highlights = () => {
           slidesPerView={1}
           pagination={{
             clickable: true,
-            dynamicBullets: true, // Torna as bolinhas dinâmicas
+            dynamicBullets: true, 
           }}
           breakpoints={{
             640: { slidesPerView: 2 },
