@@ -12,7 +12,7 @@ const PrataOuro = () => {
     {
       image: '/images/comSemBrilho/sem/022867506000_02.jpg', // Substitua pelo caminho correto
       title: 'Acessórios em ouro',
-      buttonText: 'CONFIRA',
+      buttonText: 'CONFIRAa',
       route: '/acessorios-ouro',
     },
   ];
